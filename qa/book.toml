@@ -1,7 +1,0 @@
-[book]
-authors = ["Anton Demyshev"]
-language = "en"
-multilingual = false
-src = "src"
-title = "QA Interview questions"
-editable = true
